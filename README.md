@@ -1,0 +1,2 @@
+# logprint
+go test
