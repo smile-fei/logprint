@@ -1,2 +1,2 @@
 # logprint
-go test
+定义自己的go 包
